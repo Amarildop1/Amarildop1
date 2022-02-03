@@ -27,29 +27,29 @@ Here are some ideas to get you started:
 | ------------- | ------------- | 
 
 
- #### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
+ ### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 <hr style="background-color: white; margin: 0px;">
 <code><img height="30" src="./imgs/html.png" alt="HTML5"></code>&nbsp;
-<code><img height="30" src="./imgs/css.png"></code>
-<code><img height="30" src="./imgs/bootstrap.png"></code>
-<code><img height="30" src="./imgs/javascript.png"></code>
-<code><img height="30" src="./imgs/typescript.png"></code>
-<code><img height="30" src="./imgs/nodejs.png"></code>
-<code><img height="30" src="./imgs/express.png"></code>
-<code><img height="30" src="./imgs/python.png"></code>
-<code><img height="30" src="./imgs/django.png"></code>
-<code><img height="30" src="./imgs/java.png"></code>
-<code><img height="30" src="./imgs/git.png"></code>
-<code><img height="30" src="./imgs/mysql.png"></code>
-<code><img height="30" src="./imgs/sql.png"></code>
-<code><img height="30" src="./imgs/terminal.png"></code>
-<code><img height="30" src="./imgs/jquery.png"></code>
-<code><img height="30" src="./imgs/linux.png"></code>
-<code><img height="30" src="./imgs/ubuntu.png"></code>
-<code><img height="30" src="./imgs/docker.png"></code>
-<code><img height="30" src="./imgs/windows.png"></code>
-<code><img height="30" src="./imgs/wordpress.png"></code>
+<code><img height="30" src="./imgs/css.png"alt="CSS3"></code>&nbsp;
+<code><img height="30" src="./imgs/bootstrap.png"alt="BootStrap"></code>&nbsp;
+<code><img height="30" src="./imgs/javascript.png"alt="JavaScript"></code>&nbsp;
+<code><img height="30" src="./imgs/typescript.png"alt="TypeScript"></code>&nbsp;
+<code><img height="30" src="./imgs/nodejs.png"alt="NodeJS"></code>&nbsp;
+<code><img height="30" src="./imgs/express.png"alt="Express"></code>&nbsp;
+<code><img height="30" src="./imgs/python.png"alt="Python3"></code>&nbsp;
+<code><img height="30" src="./imgs/django.png"alt="Django"></code>&nbsp;
+<code><img height="30" src="./imgs/java.png"alt="Java"></code>&nbsp;
+<code><img height="30" src="./imgs/git.png"alt="Git"></code>&nbsp;
+<code><img height="30" src="./imgs/mysql.png"alt="MySQL"></code>&nbsp;
+<code><img height="30" src="./imgs/sql.png"alt="SQL"></code>&nbsp;
+<code><img height="30" src="./imgs/terminal.png"alt="Terminal Linux"></code>&nbsp;
+<code><img height="30" src="./imgs/jquery.png"alt="JQuery"></code>&nbsp;
+<code><img height="30" src="./imgs/linux.png"alt="Linux"></code>&nbsp;
+<code><img height="30" src="./imgs/ubuntu.png"alt="Ubuntu"></code>&nbsp;
+<code><img height="30" src="./imgs/docker.png"alt="Docker"></code>&nbsp;
+<code><img height="30" src="./imgs/windows.png"alt="Windows"></code>&nbsp;
+<code><img height="30" src="./imgs/wordpress.png"alt="Wordpress"></code>&nbsp;
 <hr style="background-color: black">
 
 <p align="center"> 
