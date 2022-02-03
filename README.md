@@ -2,7 +2,9 @@
 
 Tenho noções de Desenvolvimento Web e ultimamente estou estudando para me tornar um Desenvolvedor FullStack.
 
-Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu.
+<!-- 
+Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu. 
+-->
 
 <!--
 **Amarildop1/Amarildop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,19 +27,30 @@ Here are some ideas to get you started:
 | ------------- | ------------- | 
 
 
- ### :) Linguagens e Ferramentas
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-  
+ #### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
+
+<hr style="background-color: white; margin: 0px;">
+<code><img height="30" src="./imgs/html.png"></code>
+<code><img height="30" src="./imgs/css.png"></code>
+<code><img height="30" src="./imgs/bootstrap.png"></code>
+<code><img height="30" src="./imgs/javascript.png"></code>
+<code><img height="30" src="./imgs/typescript.png"></code>
+<code><img height="30" src="./imgs/nodejs.png"></code>
+<code><img height="30" src="./imgs/express.png"></code>
+<code><img height="30" src="./imgs/python.png"></code>
+<code><img height="30" src="./imgs/django.png"></code>
+<code><img height="30" src="./imgs/java.png"></code>
+<code><img height="30" src="./imgs/git.png"></code>
+<code><img height="30" src="./imgs/mysql.png"></code>
+<code><img height="30" src="./imgs/sql.png"></code>
+<code><img height="30" src="./imgs/terminal.png"></code>
+<code><img height="30" src="./imgs/jquery.png"></code>
+<code><img height="30" src="./imgs/linux.png"></code>
+<code><img height="30" src="./imgs/ubuntu.png"></code>
+<code><img height="30" src="./imgs/docker.png"></code>
+<code><img height="30" src="./imgs/windows.png"></code>
+<code><img height="30" src="./imgs/wordpress.png"></code>
 <hr style="background-color: black">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 <p align="center"> 
  <em>Visitas</em><br>
