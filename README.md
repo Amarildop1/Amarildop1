@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  #### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 <hr style="background-color: white; margin: 0px;">
-<code><img height="30" src="./imgs/html.png"></code>
+<code><img height="30" src="./imgs/html.png" alt="HTML5"></code>&nbsp;
 <code><img height="30" src="./imgs/css.png"></code>
 <code><img height="30" src="./imgs/bootstrap.png"></code>
 <code><img height="30" src="./imgs/javascript.png"></code>
