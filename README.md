@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
  <em>Visitas</em><br>
-  <img src="https://profile-counter.glitch.me/Lrssplx/count.svg" />
+  <img src="https://profile-counter.glitch.me/Amarildop1/count.svg" />
 </p>
