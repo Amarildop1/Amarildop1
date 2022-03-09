@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
 
 <hr style="background-color: black">
 
-
+| <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a> | <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
  ### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
