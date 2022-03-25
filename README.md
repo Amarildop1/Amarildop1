@@ -1,7 +1,8 @@
 ### Olá, meu nome é Amarildo. 👋
-Sou estudante do curso superior de Sistemas para Internet do IFPB
 
-Tenho noções de Desenvolvimento Web e estou estudando para me tornar um Desenvolvedor FullStack.
+Sou estudante do curso superior de Sistemas para Internet do IFPB.
+
+Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
 <!-- 
 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu. 
