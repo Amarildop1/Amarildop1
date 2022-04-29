@@ -1,6 +1,6 @@
 ### Olá, meu nome é Amarildo. 👋
 
-Sou estudante do curso superior de Sistemas para Internet do IFPB.
+&#8618; Sou estudante do curso superior de Sistemas para Internet do IFPB.
 
 Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
