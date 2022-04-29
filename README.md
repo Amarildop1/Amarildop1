@@ -5,6 +5,7 @@ Sou estudante do curso superior de Sistemas para Internet do IFPB.
 Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
 Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
+
 Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
 <!-- 
