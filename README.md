@@ -1,12 +1,12 @@
 ### Olá, meu nome é Amarildo. 👋
-
+&#9839;
 &#8618; Sou estudante do curso superior de Sistemas para Internet do IFPB.
 
-Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
+&#65515; Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
-Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
+&#10140; Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
 
-Também estou buscando me aprofundar nos conhecimentos de Python e Django.
+&#10004; Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
 <!-- 
 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu. 
