@@ -1,8 +1,8 @@
 ### Olá, meu nome é Amarildo. 👋
-&#9839;
-&#8618; Sou estudante do curso superior de Sistemas para Internet do IFPB.
 
-&#65515; Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
+&#10004; Sou estudante do curso superior de Sistemas para Internet do IFPB.
+
+&#10140; Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
 &#10140; Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
 
