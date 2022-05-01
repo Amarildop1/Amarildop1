@@ -32,7 +32,6 @@ Here are some ideas to get you started:
  ### 😄 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 
-<hr style="background-color: white; margin: 0px;">
 <div style="display: inline_block"><br>
   <img align="center" height="40" src="./imgs/html.png" alt="HTML5">
   <img align="center" height="40" src="./imgs/css.png"alt="CSS3">
