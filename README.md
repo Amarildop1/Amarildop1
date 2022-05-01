@@ -29,29 +29,29 @@ Here are some ideas to get you started:
 -->
 
 
- ### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
+ ### 😄 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 <hr style="background-color: white; margin: 0px;">
-<img height="40" src="./imgs/html.png" alt="HTML5">&nbsp;
-<img height="40" src="./imgs/css.png"alt="CSS3">&nbsp;
-<img height="40" src="./imgs/bootstrap.png"alt="BootStrap">&nbsp;
-<img height="40" src="./imgs/javascript.png"alt="JavaScript">&nbsp;
-<img height="40" src="./imgs/typescript.png"alt="TypeScript">&nbsp;
-<img height="40" src="./imgs/nodejs.png"alt="NodeJS">&nbsp;
-<img height="40" src="./imgs/express.png"alt="Express">&nbsp;
-<img height="40" src="./imgs/python.png"alt="Python3">&nbsp;
-<img height="40" src="./imgs/django.png"alt="Django">&nbsp;
-<img height="40" src="./imgs/java.png"alt="Java">&nbsp;
-<img height="40" src="./imgs/git.png"alt="Git">&nbsp;
-<img height="40" src="./imgs/mysql.png"alt="MySQL">&nbsp;
-<img height="40" src="./imgs/sql.png"alt="SQL">&nbsp;
-<img height="40" src="./imgs/terminal.png"alt="Terminal Linux">&nbsp;
-<img height="40" src="./imgs/jquery.png"alt="JQuery">&nbsp;
-<img height="40" src="./imgs/linux.png"alt="Linux">&nbsp;
-<img height="40" src="./imgs/ubuntu.png"alt="Ubuntu">&nbsp;
-<img height="40" src="./imgs/docker.png"alt="Docker">&nbsp;
-<img height="40" src="./imgs/windows.png"alt="Windows">&nbsp;
-<img height="40" src="./imgs/wordpress.png"alt="Wordpress">&nbsp;
+<img height="40" src="./imgs/html.png" alt="HTML5">
+<img height="40" src="./imgs/css.png"alt="CSS3">
+<img height="40" src="./imgs/bootstrap.png"alt="BootStrap">
+<img height="40" src="./imgs/javascript.png"alt="JavaScript">
+<img height="40" src="./imgs/typescript.png"alt="TypeScript">
+<img height="40" src="./imgs/nodejs.png"alt="NodeJS">
+<img height="40" src="./imgs/express.png"alt="Express">
+<img height="40" src="./imgs/python.png"alt="Python3">
+<img height="40" src="./imgs/django.png"alt="Django">
+<img height="40" src="./imgs/java.png"alt="Java">
+<img height="40" src="./imgs/git.png"alt="Git">
+<img height="40" src="./imgs/mysql.png"alt="MySQL">
+<img height="40" src="./imgs/sql.png"alt="SQL">
+<img height="40" src="./imgs/terminal.png"alt="Terminal Linux">
+<img height="40" src="./imgs/jquery.png"alt="JQuery">
+<img height="40" src="./imgs/linux.png"alt="Linux">
+<img height="40" src="./imgs/ubuntu.png"alt="Ubuntu">
+<img height="40" src="./imgs/docker.png"alt="Docker">
+<img height="40" src="./imgs/windows.png"alt="Windows">
+<img height="40" src="./imgs/wordpress.png"alt="Wordpress">
 <hr style="background-color: black">
 
 
