@@ -8,6 +8,8 @@
 
 &#10004; Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
+![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
+
 <!-- 
 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu. 
 -->
@@ -26,13 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
--->
-<hr style="background-color: black">
 
-| <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a> | <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
 
  ### :) Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
@@ -59,7 +55,15 @@ Here are some ideas to get you started:
 <code><img height="40" src="./imgs/wordpress.png"alt="Wordpress"></code>&nbsp;
 <hr style="background-color: black">
 
+<hr style="background-color: black">
+
+| <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a> | <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+<!--
 <p align="center"> 
  <em>Visitas</em><br>
   <img src="https://profile-counter.glitch.me/Amarildop1/count.svg" />
 </p>
+-->
