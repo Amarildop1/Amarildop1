@@ -9,10 +9,6 @@
 &#10004; Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
 
-<!-- 
-Linguagens, tecnologias e ferramentas que tenho(ou tive) contato: HTML5, CSS3, Bootstrap, JavaScript, Python, Django, SQL, Java, Git e GitHub, Visual Studio Code, Linux Ubuntu. 
--->
-
 <!--
 **Amarildop1/Amarildop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,26 +29,25 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="40" src="./imgs/html.png" alt="HTML5">
-  <img align="center" height="40" src="./imgs/css.png"alt="CSS3">
-  <img align="center" height="40" src="./imgs/bootstrap.png"alt="BootStrap">
-  <img align="center" height="40" src="./imgs/javascript.png"alt="JavaScript">
-  <img align="center" height="40" src="./imgs/typescript.png"alt="TypeScript">
-  <img align="center" height="40" src="./imgs/nodejs.png"alt="NodeJS">
-  <img align="center" height="40" src="./imgs/express.png"alt="Express">
-  <img align="center" height="40" src="./imgs/python.png"alt="Python3">
-  <img align="center" height="40" src="./imgs/django.png"alt="Django">
-  <img align="center" height="40" src="./imgs/java.png"alt="Java">
-  <img align="center" height="40" src="./imgs/git.png"alt="Git">
-  <img align="center" height="40" src="./imgs/mysql.png"alt="MySQL">
-  <img align="center" height="40" src="./imgs/sql.png"alt="SQL">
-  <img align="center" height="40" src="./imgs/terminal.png"alt="Terminal Linux">
-  <img align="center" height="40" src="./imgs/jquery.png"alt="JQuery">
-  <img align="center" height="40" src="./imgs/linux.png"alt="Linux">
-  <img align="center" height="40" src="./imgs/ubuntu.png"alt="Ubuntu">
-  <img align="center" height="40" src="./imgs/docker.png"alt="Docker">
-  <img align="center" height="40" src="./imgs/windows.png"alt="Windows">
-  <img align="center" height="40" src="./imgs/wordpress.png"alt="Wordpress">
+  <img align="center" height="40" width="46" src="./imgs/html5.svg" alt="HTML5" title="HTML5">
+  <img align="center" height="40" width="46" src="./imgs/css3.svg" alt="CSS3" title="CSS3">
+  <img align="center" height="40" width="46" src="./imgs/bootstrap.svg" alt="BootStrap" title="BootStrap">
+  <img align="center" height="40" width="46" src="./imgs/javascript.svg" alt="JavaScript" title="JavaScript">
+  <img align="center" height="40" width="46" src="./imgs/python.svg" alt="Python3" title="Python3">
+  <img align="center" height="40" width="46" src="./imgs/django.png" alt="Django" title="Django">
+  <img align="center" height="40" width="46" src="./imgs/nodejs.png" alt="NodeJS" title="NodeJS">
+  <img align="center" height="40" width="46" src="./imgs/express.png" alt="Express" title="Express">
+  <img align="center" height="40" width="46" src="./imgs/typescript.png" alt="TypeScript" title="TypeScript">
+  <img align="center" height="40" width="46" src="./imgs/java.png" alt="Java" title="Java">
+  <img align="center" height="40" width="46" src="./imgs/git.png" alt="Git" title="Git">
+  <img align="center" height="40" width="46" src="./imgs/mysql.png" alt="MySQL" title="MySQL">
+  <img align="center" height="40" width="46" src="./imgs/sql.png" alt="SQL" title="SQL">
+  <img align="center" height="40" width="46" src="./imgs/terminal.png" alt="Terminal Linux" title="Terminal Linux">
+  <img align="center" height="40" width="46" src="./imgs/linux.png" alt="Linux" title="Linux">
+  <img align="center" height="40" width="46" src="./imgs/ubuntu.png" alt="Ubuntu" title="Ubuntu">
+  <img align="center" height="40" width="46" src="./imgs/docker.png" alt="Docker" title="Docker">
+  <img align="center" height="40" width="46" src="./imgs/windows.png" alt="Windows" title="Windows">
+  <img align="center" height="40" width="46" src="./imgs/wordpress.png" alt="Wordpress" title="Wordpress">
 </div>
 <hr style="background-color: black">
 
@@ -62,9 +57,3 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
 
-<!--
-<p align="center"> 
- <em>Visitas</em><br>
-  <img align="center" src="https://profile-counter.glitch.me/Amarildop1/count.svg" />
-</p>
--->
