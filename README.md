@@ -2,9 +2,9 @@
 
 &#10004; Sou estudante do curso superior de Sistemas para Internet do IFPB.
 
-&#10140; Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
+&#10004; Desenvolvedor Web e aspirante a Desenvolvedor FullStack.
 
-&#10140; Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
+&#10004; Atualmente estou estudando sobre o "mundo" do React.JS, React Native e Node.JS. 
 
 &#10004; Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <img align="center" height="40" width="46" src="./imgs/django.png" alt="Django" title="Django">
   <img align="center" height="40" width="46" src="./imgs/nodejs.png" alt="NodeJS" title="NodeJS">
   <img align="center" height="40" width="46" src="./imgs/express.png" alt="Express" title="Express">
-  <img align="center" height="40" width="46" src="./imgs/typescript.png" alt="TypeScript" title="TypeScript">
   <img align="center" height="40" width="46" src="./imgs/java.png" alt="Java" title="Java">
   <img align="center" height="40" width="46" src="./imgs/git.png" alt="Git" title="Git">
   <img align="center" height="40" width="46" src="./imgs/mysql.png" alt="MySQL" title="MySQL">
@@ -47,7 +46,6 @@ Here are some ideas to get you started:
   <img align="center" height="40" width="46" src="./imgs/ubuntu.png" alt="Ubuntu" title="Ubuntu">
   <img align="center" height="40" width="46" src="./imgs/docker.png" alt="Docker" title="Docker">
   <img align="center" height="40" width="46" src="./imgs/windows.png" alt="Windows" title="Windows">
-  <img align="center" height="40" width="46" src="./imgs/wordpress.png" alt="Wordpress" title="Wordpress">
 </div>
 <hr style="background-color: black">
 
