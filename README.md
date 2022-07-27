@@ -9,21 +9,6 @@
 &#10004; Também estou buscando me aprofundar nos conhecimentos de Python e Django.
 
 
-<!--
-**Amarildop1/Amarildop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
  ### 😄 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
@@ -31,7 +16,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="46" src="./imgs/html5.svg" alt="HTML5" title="HTML5">
   <img align="center" height="40" width="46" src="./imgs/css3.svg" alt="CSS3" title="CSS3">
-  <img align="center" height="40" width="46" src="./imgs/bootstrap.svg" alt="BootStrap" title="BootStrap">
+  <img align="center" height="40" width="46" src="./imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap">
   <img align="center" height="40" width="46" src="./imgs/javascript.svg" alt="JavaScript" title="JavaScript">
   <img align="center" height="40" width="46" src="./imgs/python.svg" alt="Python3" title="Python3">
   <img align="center" height="40" width="46" src="./imgs/django.png" alt="Django" title="Django">
