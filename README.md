@@ -20,8 +20,6 @@
   <img align="center" height="40" width="46" src="./imgs/javascript.svg" alt="JavaScript" title="JavaScript">
   <img align="center" height="40" width="46" src="./imgs/python.svg" alt="Python3" title="Python3">
   <img align="center" height="40" width="46" src="./imgs/django.png" alt="Django" title="Django">
-  <img align="center" height="40" width="46" src="./imgs/nodejs.png" alt="NodeJS" title="NodeJS">
-  <img align="center" height="40" width="46" src="./imgs/express.png" alt="Express" title="Express">
   <img align="center" height="40" width="46" src="./imgs/java.png" alt="Java" title="Java">
   <img align="center" height="40" width="46" src="./imgs/git.png" alt="Git" title="Git">
   <img align="center" height="40" width="46" src="./imgs/mysql.png" alt="MySQL" title="MySQL">
