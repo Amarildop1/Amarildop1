@@ -4,7 +4,7 @@
 
 &#10004; Buscando me aprofundar nos conhecimentos de Python e Django. 
 
-&#10004; Também estou estudando sobre o "mundo" do React.JS, React Native e Node.JS.
+&#10004; Também estou estudando sobre o "mundo" do React.
 
 
 
