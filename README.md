@@ -1,4 +1,4 @@
-### Olá, meu nome é Amarildo. 👋
+### Olá, meu nome é Amarildo.
 
 &#10004; Desenvolvedor Web quase "FullStack".
 
@@ -8,7 +8,7 @@
 
 
 
- ### 😄 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
+ ### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 
 <div style="display: inline_block"><br>
