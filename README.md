@@ -1,6 +1,6 @@
 ### Olá, meu nome é Amarildo. 👋
 
-&#10004; Desenvolvedor Web quase "FullStack".
+&#10004; Desenvolvedor quase "FullStack".
 
 &#10004; Buscando me aprofundar nos conhecimentos de Python e Django. 
 
