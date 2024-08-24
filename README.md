@@ -1,14 +1,15 @@
-### Olá, meu nome é Amarildo. 👋
+### Olá, meu nome é Amarildo.
 
-&#10004; Desenvolvedor quase "FullStack".
+&#10004; Desenvolvedor em constante evolução.
 
-&#10004; Buscando me aprofundar nos conhecimentos de Python e Django. 
+&#10004; Graduando em Sistemas para Internet pelo IFPB.
 
-&#10004; Também estou estudando sobre o "mundo" do React.JS, React Native e Node.JS.
+&#10004; Certificação em Programação Web pelo IFRS
+
+&#10004; Experiência em Python, Django, HTML, CSS, JavaScript, MySQL, e Git.
 
 
-
- ### 😄 Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
+### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 
 <div style="display: inline_block"><br>
@@ -31,8 +32,10 @@
 <hr style="background-color: black">
 
 
-| <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a> | <a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a>
+<hr style="background-color: black">
+<a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a>
+<hr style="background-color: black">
 
 ![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
 
