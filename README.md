@@ -1,13 +1,16 @@
 ### Olá, meu nome é Amarildo.
 
-&#10004; Desenvolvedor em constante evolução.
+<br>
 
-&#10004; Graduando em Sistemas para Internet pelo IFPB.
+ 📖 Graduando em Sistemas para Internet pelo IFPB.
 
-&#10004; Certificação em Programação Web pelo IFRS
+ 💻 Certificação em Programação Web pelo IFRS
 
-&#10004; Experiência em Python, Django, HTML, CSS, JavaScript, MySQL, e Git.
+ 🎯 Experiência em Python, Django, HTML, CSS, Bootstrap, JavaScript, MySQL, e Git.
 
+ 🔎 Desenvolvedor em constante evolução.
+
+<br>
 
 ### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
