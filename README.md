@@ -6,11 +6,7 @@
 
  💻 Certificação em Programação Web pelo IFRS
 
-<<<<<<< HEAD
-&#10004; Experiência em Python, Django, HTML, CSS, JavaScript, MySQL e Git.
-=======
- 🎯 Experiência em Python, Django, HTML, CSS, Bootstrap, JavaScript, MySQL, e Git.
->>>>>>> 8f341d56c31166f46c214ad2c51bcbf8bc56cbfb
+ 🎯 Experiência em Python, Django, HTML, CSS, Bootstrap, JavaScript, MySQL e Git.
 
  🔎 Desenvolvedor em constante evolução.
 
