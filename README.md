@@ -6,7 +6,7 @@
 
 &#10004; Certificação em Programação Web pelo IFRS
 
-&#10004; Experiência em Python, Django, HTML, CSS, JavaScript, MySQL, e Git.
+&#10004; Experiência em Python, Django, HTML, CSS, JavaScript, MySQL e Git.
 
 
 ### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
@@ -29,14 +29,15 @@
   <img align="center" height="40" width="46" src="./imgs/docker.png" alt="Docker" title="Docker">
   <img align="center" height="40" width="46" src="./imgs/windows.png" alt="Windows" title="Windows">
 </div>
+<br>
 <hr style="background-color: black">
 
 
-<a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&theme=dark&hide_border=true" alt="Amarildop1 github stats" /></a>
+
+[![Amarildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarildop1&show_icons=true&count_private=true&theme=dark&hide_border=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr style="background-color: black">
 
-<a href="https://github.com/Amarildop1/github-readme-stats"><img align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarildop1&layout=compact&theme=dark&hide_border=true" /></a>
-<hr style="background-color: black">
 
 ![](https://komarev.com/ghpvc/?username=Amarildop1&label=Profile+Views)
 
