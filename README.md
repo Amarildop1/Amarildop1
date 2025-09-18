@@ -6,18 +6,25 @@
 
  💻 Certificação em Programação Web pelo IFRS
 
- 🎯 Experiência em Python, Django, HTML, CSS, Bootstrap, JavaScript, MySQL e Git.
+ 🎯 Experiência prática em Python, Django, CSS, Bootstrap, SQL, Linux, Git, Java, PHP, JavaScript, OCI, Docker.
 
  🔎 Desenvolvedor em constante evolução.
 
- <br>
-
+<br>
   
 ### 🎓 Certificados:
 
  🧾 2025: https://abre.ai/certificados-2025
- 
- 📜
+
+ 🧾 2024: https://abre.ai/certificados2024
+
+ 🧾 2023: https://abre.ai/certificados-2023
+
+ 🧾 2022: https://abre.ai/certificados-2022
+
+ 🧾 2021 e 2020:  https://abre.ai/certificados2020e2021
+
+ 🧾 Antes de 2020:  https://abre.ai/certificados-antesde2020
 
 <br>
 
