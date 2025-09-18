@@ -26,8 +26,8 @@
   🧾 Antes de 2020:  https://abre.ai/certificados-antesde2020
 <br>
 
-### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
+### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="46" src="./imgs/html5.svg" alt="HTML5" title="HTML5">
