@@ -10,8 +10,7 @@
 
  🔎 Desenvolvedor em constante evolução.
 
-<br>
-  
+
 ### 🎓 Certificados:
 
  🧾 2025: https://abre.ai/certificados-2025
@@ -25,7 +24,6 @@
  🧾 2021 e 2020:  https://abre.ai/certificados2020e2021
 
  🧾 Antes de 2020:  https://abre.ai/certificados-antesde2020
-
 <br>
 
 ### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
