@@ -2,28 +2,28 @@
 
 <br>
 
- 📖 Graduando em Sistemas para Internet pelo IFPB.
+  📖 Graduando em Sistemas para Internet pelo IFPB.
 
- 💻 Certificação em Programação Web pelo IFRS
+  💻 Certificação em Programação Web pelo IFRS
 
- 🎯 Experiência prática em Python, Django, CSS, Bootstrap, SQL, Linux, Git, Java, PHP, JavaScript, OCI, Docker.
+  🎯 Experiência prática em Python, Django, CSS, Bootstrap, SQL, Linux, Git, Java, PHP, JavaScript, OCI, Docker.
 
- 🔎 Desenvolvedor em constante evolução.
+  🔎 Desenvolvedor em constante evolução.
 
 
 ### 🎓 Certificados:
 
- 🧾 2025: https://abre.ai/certificados-2025
+  🧾 2025: https://abre.ai/certificados-2025
 
- 🧾 2024: https://abre.ai/certificados2024
+  🧾 2024: https://abre.ai/certificados2024
 
- 🧾 2023: https://abre.ai/certificados-2023
+  🧾 2023: https://abre.ai/certificados-2023
 
- 🧾 2022: https://abre.ai/certificados-2022
+  🧾 2022: https://abre.ai/certificados-2022
 
- 🧾 2021 e 2020:  https://abre.ai/certificados2020e2021
+  🧾 2021 e 2020:  https://abre.ai/certificados2020e2021
 
- 🧾 Antes de 2020:  https://abre.ai/certificados-antesde2020
+  🧾 Antes de 2020:  https://abre.ai/certificados-antesde2020
 <br>
 
 ### Linguagens, tecnologias e ferramentas que tenho(ou tive) contato:
